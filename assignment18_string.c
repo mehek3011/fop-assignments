@@ -20,7 +20,7 @@ void main()
         result[i]=str1[original_length-1-i];
     }
 
-    //co,paring strings
+    //comparing strings
     if(strcmp(str1,str2)==0)
     {
         printf("The strings are equal.\n");
